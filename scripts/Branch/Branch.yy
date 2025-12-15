@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Branch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Branch",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/DialogeEngine/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

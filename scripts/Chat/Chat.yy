@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Chat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Chat",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/DialogeEngine/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

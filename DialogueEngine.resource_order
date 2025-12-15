@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"DialogeEngine","order":16,"path":"folders/DialogeEngine.yy",},
+    {"name":"Objects","order":1,"path":"folders/DialogeEngine/Objects.yy",},
+    {"name":"System","order":1,"path":"folders/DialogeEngine/Objects/System.yy",},
+    {"name":"Scripts","order":2,"path":"folders/DialogeEngine/Scripts.yy",},
+    {"name":"Räume","order":10,"path":"folders/Räume.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Branch","order":2,"path":"scripts/Branch/Branch.yy",},
+    {"name":"Chat","order":3,"path":"scripts/Chat/Chat.yy",},
+    {"name":"deLOG","order":1,"path":"scripts/deLOG/deLOG.yy",},
+    {"name":"Person","order":4,"path":"scripts/Person/Person.yy",},
+  ],
+}

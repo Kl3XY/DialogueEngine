@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"deLOG",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"deLOG",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/DialogeEngine/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Person",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Person",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/DialogeEngine/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
